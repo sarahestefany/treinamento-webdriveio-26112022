@@ -1,0 +1,26 @@
+{
+  "name": "treinamento-webdriveio-26112022",
+  "version": "8.19.2",
+  "description": "Teste bolo cenoura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahestefany/treinamento-webdriveio-26112022.git"
+  },
+  "author": "SarahF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahestefany/treinamento-webdriveio-26112022/issues"
+  },
+  "homepage": "https://github.com/sarahestefany/treinamento-webdriveio-26112022#readme",
+  "devDependencies": {
+    "local-runner": "^0.1.1-alpha",
+    "webdriverio": "^7.27.0"
+  },
+  "dependencies": {
+    "@wdio/cli": "^7.27.0"
+  }
+}
